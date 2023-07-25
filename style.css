@@ -1,0 +1,27 @@
+h1{
+    color: #E8E80A;
+    font-family: monospace;
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;border-width: 1px;
+    border-style: solid;
+    text-align: center; 
+    border-color: black;
+
+}
+
+th{
+    font-weight: 500;
+    background-color: dimgrey;
+    color: white;
+    font-family:  Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
